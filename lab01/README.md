@@ -18,10 +18,8 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
 I leart how to properly use GitHub and push and commit
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
 Ai was used to explain errors that i could not understand
