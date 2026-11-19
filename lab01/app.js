@@ -1,4 +1,4 @@
-// 953261 Lab 1 — My first Node.js server
+t// 953261 Lab 1 — My first Node.js server
 // Run:  npm start   then open http://localhost:3000
 //
 // TODO (Part D of the lab sheet):
