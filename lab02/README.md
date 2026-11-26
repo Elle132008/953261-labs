@@ -1,6 +1,6 @@
 # 953261 Lab 2 — Kad Café (Modern JavaScript)
 
-| | |
+| Information | Details |
 |---|---|
 | Name | Naw Eh Blute Phaw Tal Nal |
 | Nickname | Elle |
@@ -10,7 +10,6 @@
 ## How to run
 
 ```bash
-cd lab02
 npm run warmup
 npm test
 npm start
