@@ -10,6 +10,7 @@
 ## How to run
 
 ```bash
+cd lab02
 npm run warmup
 npm test
 npm start
