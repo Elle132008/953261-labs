@@ -17,7 +17,7 @@ npm start
 
 ## My own function (Part D)
 
-My function is `countAvailableItems(menu)`. It returns the number of menu items that are currently available. It uses the `filter()` array method to select available items and the `length` property to count them.
+My function is countAvailableItems(menu). It returns the number of menu items that are currently available. It uses the filter() array method to select available items and the length property to count them.
 
 ## What I learned today
 
