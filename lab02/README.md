@@ -2,28 +2,27 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | Naw Eh Blute Phaw Tal Nal |
+| **Nickname** | Elle |
+| **Student ID** | 692115510 |
 | **Section** | 701 |
 
 ## How to run
 
 ```bash
-cd lab02
-npm run warmup   # Part B
-npm test         # Part C
-npm start        # Part D — the daily report
+npm run warmup
+npm test
+npm start
 ```
 
 ## My own function (Part D)
 
-_Name of your function, what it returns, and which array methods it uses._
+My function is `countAvailableItems(menu)`. It returns the number of menu items that are currently available. It uses the `filter()` array method to select available items and the `length` property to count them.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: when would you use map, filter, find and reduce?_
+I learned that `map()` creates a new array by transforming each item, while `filter()` selects items that match a condition. `find()` searches for the first matching item, and `reduce()` combines array items into one result, such as calculating a total.
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what. If no, write "No AI tools used."_
+I used ChatGPT to help me understand JavaScript array methods, debug my code, and complete the lab step by step. I reviewed and tested the code myself using the provided tests.
