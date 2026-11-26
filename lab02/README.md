@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| **Name** | Naw Eh Blute Phaw Tal Nal |
-| **Nickname** | Elle |
-| **Student ID** | 692115510 |
-| **Section** | 701 |
+| Name | Naw Eh Blute Phaw Tal Nal |
+| Nickname | Elle |
+| Student ID | 692115510 |
+| Section | 701 |
 
 ## How to run
 
